@@ -1,4 +1,5 @@
 # quick-feed
+<img width="45" height="40" src="demo/reactjs_logo.png" style="float:left; border:3px solid black; margin-right:3%">    <img width="45" height="40" src="demo/rss.png" style="border:3px solid black">
 
 This project is a simple ReactJS app for rendering RSS feeds for podcasts.
 You can try out the app [here](https://amcquade.github.io/quick-feed/).
